@@ -5,4 +5,4 @@ PacMan game written in python run on the Processing platform
 
 Here's a walkthrough
 
-<img src='Othello.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Pacman.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
